@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background: #BDBDBD;
 }
@@ -40,4 +41,33 @@ p{
 	margin-bottom:0rem;
 	margin-top: 0rem;
 	
+=======
+body{
+    background: #BDBDBD;
+}
+
+.container-members{
+    background-color: #ffffff;
+    width: 100%;
+    height: auto;
+}
+
+thead {
+    background-color: rgba(197, 239, 247, 1);
+}
+
+.table thead th{
+    border: none;
+}
+
+.table td, .table th{
+    border: none;
+}
+
+.table-striped tbody tr:nth-of-type(odd){
+    background-color: #ffffff;
+}
+.table-striped tbody{
+    background-color: rgba(197, 239, 247, 1);
+>>>>>>> 171bea7e6ecd8238445548d276883b5c49f535a0
 }
